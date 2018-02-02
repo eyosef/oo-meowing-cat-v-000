@@ -7,4 +7,4 @@ class Cat
   end
 end
 
-maru = Cat.new("maru")
+maru = Cat.new
