@@ -2,7 +2,7 @@ class Cat
   attr_accessor = @name
 
   def initializer(name)
-    @name=name
+    @name = name
   end
 
   def meow
