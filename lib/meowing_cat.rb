@@ -8,3 +8,4 @@ class Cat
 end
 
 maru = Cat.name
+maru.meow
