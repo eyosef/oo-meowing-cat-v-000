@@ -15,4 +15,4 @@ class Cat
   end
 end
 
-maru = Cat.new
+maru = Cat.name
